@@ -4,5 +4,5 @@
 ---
 
 * **Chapter 7 - Pattern Matching with Regular Expressions**
-  * Strong Password Detection:wq
+  * Strong Password Detection
   * 
